@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tiru 👋
 
-<!--
-**Tiru0067/Tiru0067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building clean, functional web apps.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Frontend:** React, Tailwind CSS, Framer Motion, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, PostgreSQL, Prisma ORM
+- **Auth:** JWT, bcrypt
+- **OS:** Linux (Arch)
+- **Tools:** Git, GitHub, Vercel, Render, Neon, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Also familiar with
+- Python (scripting & automation)
+- MongoDB (basic), SQLite
+- REST APIs, Postman
+
+## 🚀 What I'm building
+- **Trackora** — A personal finance tracking web app
+
+## 📌 Featured Projects
+- [FinLedger](https://github.com/Tiru0067/finledger) — Backend REST API with JWT auth and RBAC
+- [Trackora](https://github.com/Tiru0067/Trackora) — Personal finance tracker (in progress)
+
+## 📫 Reach me
+- Email: tiru0067@gmail.com
